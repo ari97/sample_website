@@ -8,3 +8,7 @@
 .nav-spacing{
   margin-left: 10px;
 }
+.general-link{
+  text-decoration: none;
+  color: blue;
+}
